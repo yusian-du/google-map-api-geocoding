@@ -1,4 +1,10 @@
 # google-api-geocoding
+此專案使用 Vue.js 和 Google Map API：
+1. 練習使用 geocoding 將地址轉換成座標
+2. 練習將座標位置及信息顯示在 Google Map 上
+
+## Project First Look
+![image](https://github.com/yusian-du/google-map-api-geocoding/blob/master/GoogleChrome-google_api_practice.gif)
 
 ## Project setup
 
